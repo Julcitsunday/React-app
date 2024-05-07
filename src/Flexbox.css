@@ -1,0 +1,107 @@
+.container_flex{
+    width: 700px;
+    height: 393px;
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex-container{
+    display:flex;
+    align-items: start;
+    justify-content:space-evenly;
+    text-align: center;
+}
+
+.tab1{
+    background-color: antiquewhite;
+    width: 700px;
+    height: 50px;
+}
+
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 2px;
+    height: 300px; 
+}
+
+.grid_container >h2 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+   
+.grid_container >h3 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+} 
+
+.grid1{
+    background-color: blue;
+}
+
+.grid2{
+    background-color: yellowgreen;
+}
+
+.grid3{
+    background-color: burlywood;
+}
+
+.grid4{
+    background-color: rosybrown;
+}
+.grid5{
+    background-color: blue
+}
+
+.grid6{
+    background-color: yellowgreen;
+}
+
+.grid7{
+    background-color: burlywood;
+}
+
+.grid8{
+    background-color: rosybrown;
+}
+.grid9{
+    background-color: blue
+}
+
+.grid10{
+    background-color: yellowgreen;
+}
+
+.grid11{
+    background-color: burlywood;
+}
+
+.grid12{
+    background-color: rosybrown;
+}
+.grid13{
+    background-color: blue
+}
+
+.grid14{
+    background-color: yellowgreen;
+}
+
+.grid15{
+    background-color: burlywood;
+}
+
+.grid16{
+    background-color: rosybrown;
+}
